@@ -4,6 +4,7 @@ AI 消息导航助手 (AI Message Navigator)
 一个基于 JavaScript (Manifest V3) 开发的浏览器插件，旨在为多种 AI 聊天平台提供侧边栏消息索引、快速搜索及对话定位功能。
 
 2、安装部署
+
 下载代码：下载代码，找到AI-Message-Navigator文件夹里面的Code文件夹，里面有manifest.json, content.js, style.css 三个文件
 打开扩展管理：在 Edge 浏览器地址栏输入 edge://extensions/。
 
