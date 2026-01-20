@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "多平台 AI 消息导航助手",
+  "version": "1.1",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gemini.google.com/*",
+        "https://chatgpt.com/*",
+        "https://www.doubao.com/*",
+        "https://tongyi.aliyun.com/*",
+        "https://chat.deepseek.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
