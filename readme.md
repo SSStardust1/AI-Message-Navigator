@@ -6,6 +6,7 @@ AI 消息导航助手 (AI Message Navigator)
 2、安装部署
 
 下载代码：下载代码，找到AI-Message-Navigator文件夹里面的Code文件夹，里面有manifest.json, content.js, style.css 三个文件
+
 打开扩展管理：在 Edge 浏览器地址栏输入 edge://extensions/。
 
 点击在“已安装扩展”几个字的右边第一个名为加载解压缩扩展的图标，选择刚才保存代码的文件夹（即为Code文件夹）。
